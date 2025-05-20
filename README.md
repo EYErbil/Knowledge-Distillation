@@ -1,5 +1,6 @@
 # Knowledge-Distillation- Queen's University Elec475-TermProject competition winner.
-Apllied Knowledge distillation for machine learning models, as source code.
+Applied knowledge distillation technique for machine learning models, as source code.
+More info --> https://neptune.ai/blog/knowledge-distillation
 The results of the distillation can be seen in results excel file, with all necessary information available on either the code/predictions-visualizations.
 # For feature distillation technique, backbone has to be similar
 ## To train in both ways:
